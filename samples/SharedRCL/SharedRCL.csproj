@@ -1,13 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Razor">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net9.0</TargetFramework>
   </PropertyGroup>
 
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Components" Version="6.0.36" />
-    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="6.0.36" />
+    <PackageReference Include="Microsoft.AspNetCore.Components" Version="9.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="9.0.2" />
   </ItemGroup>
 
 
